@@ -1,2 +1,1 @@
-# FSWD_Project
-This is a first repository
+RecipeSharingWebsite is a project which is made by using HTML, CSS, JavaScript, Nodejs, Mysql database
